@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tareq-abuaqlain/autoComplete#readme",
   "dependencies": {
+    "mime-types": "^2.1.35",
     "nodemon": "^2.0.20"
   },
   "devDependencies": {
